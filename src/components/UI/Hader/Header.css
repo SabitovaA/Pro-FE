@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1440px;
+    background-color: #E4019A;
+    padding:5px 100px 5px 32px;
+}
+.yellow{
+    width: 85px;
+    height: 85px;
+    background-color:#D5BC00 ;
+    border-radius: 50px;
+}
+ul{
+    display: flex;
+    gap:20px;
+    color: white;
+    list-style-type: none;
+}
