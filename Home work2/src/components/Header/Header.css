@@ -1,0 +1,28 @@
+.container{
+    max-width: 1440px;
+    height: 70px;
+    background-color: #333331;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:0 50px;
+}
+.icon{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    border-radius: 50px;
+}
+.left{
+    display: flex;
+    color: white;
+    align-items: center;
+    gap: 33px;
+}
+ul{
+    display: flex;
+    color: white;
+    list-style: none;
+    gap: 20px;
+    
+}
